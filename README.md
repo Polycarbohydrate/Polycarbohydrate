@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Polycarbohydrate's GitHub stats](https://github-readme-stats.vercel.app/api?username=polycarbohydrate&show_icons=true&theme=synthwave)
 
 <!---
 Polycarbohydrate/Polycarbohydrate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
