@@ -1,5 +1,5 @@
-[github-header-image](https://github.com/user-attachments/assets/ccc8d4f6-e0f9-48d1-8977-2aaa8d82c94d)
-drate's GitHub stats](https://github-readme-stats.vercel.app/api?username=polycarbohydrate&show_icons=true&theme=synthwave)
+![github-header-image](https://github.com/user-attachments/assets/ccc8d4f6-e0f9-48d1-8977-2aaa8d82c94d)
+![Polycarbohydrate's GitHub stats](https://github-readme-stats.vercel.app/api?username=polycarbohydrate&show_icons=true&theme=synthwave)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polycarbohydrate&layout=compact&theme=synthwave)
 ![](https://komarev.com/ghpvc/?username=polycarbohydrate&color=34fa02)
 <!---
