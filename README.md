@@ -4,4 +4,4 @@ Hello!👋 I am Polycarbohydrate, a developer that codes in [Rust](https://www.r
 # 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 📊
 ![Polycarbohydrate's GitHub stats](https://github-readme-stats.vercel.app/api?username=polycarbohydrate&show_icons=true&theme=synthwave)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polycarbohydrate&layout=compact&theme=synthwave)
-![readmeviews](https://komarev.com/ghpvc/?username=polycarbohydrate&color=34fa02)
+![readmeviews](https://komarev.com/ghpvc/?username=polycarbohydrate&color=000000)
