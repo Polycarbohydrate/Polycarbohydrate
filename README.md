@@ -1,4 +1,6 @@
-![banner](https://github.com/user-attachments/assets/3408a2b5-e7ac-427f-8a5f-19f0b1cb9b71)
+![banner](https://github.com/user-attachments/assets/4d77643d-2cd5-438d-9e52-ee41bcfcc220)
+
+
 ![Polycarbohydrate's GitHub stats](https://github-readme-stats.vercel.app/api?username=polycarbohydrate&show_icons=true&theme=synthwave)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polycarbohydrate&layout=compact&theme=synthwave)
 ![](https://komarev.com/ghpvc/?username=polycarbohydrate&color=34fa02)
